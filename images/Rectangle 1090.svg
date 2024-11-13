@@ -1,0 +1,26 @@
+/* button */
+
+position: absolute;
+left: 86.15%;
+right: 9.69%;
+top: 95.87%;
+bottom: 2.53%;
+
+/* Union 3 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 89.92%;
+bottom: 0.19%;
+
+background: #14274A;
+
+/* Book now */
+
+position: absolute;
+left: 43.02%;
+right: 43.02%;
+top: 23.99%;
+bottom: 73.6%;
+
